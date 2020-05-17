@@ -1,6 +1,3 @@
-import re
-
-
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         temp = x
