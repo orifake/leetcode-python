@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         h = {}
@@ -7,3 +9,6 @@ class Solution:
                 h[num] = i
             else:
                 return [h[complement], i]
+
+t = Solution()
+print(t.twoSum([2, 7, 11, 15],9))
