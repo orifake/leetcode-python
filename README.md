@@ -11,6 +11,7 @@
 ## stack
 20 Valid Parentheses 
 225 Implement Stack using Queues
+232 Implement Queue using Stacks
 
 ## Hash Table
 1 Two Sum
