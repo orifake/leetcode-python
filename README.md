@@ -7,6 +7,10 @@
 ## String
 14 Longest Common Prefix
 38 Count and Say
+58 Length of Last Word
+
+## Array
+66 Plus One
 
 ## stack
 20 Valid Parentheses 
@@ -28,12 +32,17 @@
 
 ## Binary Search
 35 Search Insert Position
+69 Sqrt(x)
 
 ## Tree
 226 Invert Binary Tree
 
 ## Bit Manipulation
 231 Power of Two
+
+## Dynamic Programming
+53 Maximum Subarray
+70 Climbing Stairs
 
 ## Floyd Cycle Detection Algorithm
 
