@@ -3,6 +3,12 @@
 9 Palindrome Number
 13 Roman to Integer
 67 Add Binary
+256 Add Digits
+263 Ugly Number
+268 Missing Number
+
+## Bit Manipulation
+231 Power of Two
 
 ## String
 14 Longest Common Prefix
@@ -24,11 +30,13 @@
 
 ## Linked List
 21 Merge Two Sorted Lists
+234 Palindrome Linked List
 
 ## Two Pointer
 26 Remove Duplicates from Sorted Array
 27 Remove Element
 28 Implement strStr()
+234 Palindrome Linked List
 
 ## Binary Search
 35 Search Insert Position
@@ -36,9 +44,10 @@
 
 ## Tree
 226 Invert Binary Tree
+235 Lowest Common Ancestor of a Binary Search Tree
 
-## Bit Manipulation
-231 Power of Two
+## Depth First Search
+257 Binary Tree Paths
 
 ## Dynamic Programming
 53 Maximum Subarray
