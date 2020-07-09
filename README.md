@@ -6,14 +6,18 @@
 256 Add Digits
 263 Ugly Number
 268 Missing Number
+326 Power of Three
 
 ## Bit Manipulation
 231 Power of Two
+342 Power of Four
+371 Sum of Two Integers
 
 ## String
 14 Longest Common Prefix
 38 Count and Say
 58 Length of Last Word
+383 Ransom Note
 
 ## Array
 66 Plus One
@@ -27,6 +31,10 @@
 1 Two Sum
 217 Contains Duplicate
 219 Contains Duplicate II
+290 Word Pattern
+299 Bulls and Cows
+387 First Unique Character in a String
+389 Find the Difference
 
 ## Linked List
 21 Merge Two Sorted Lists
@@ -37,10 +45,17 @@
 27 Remove Element
 28 Implement strStr()
 234 Palindrome Linked List
+283 Move Zeroes
+345 Reverse Vowels of a String
 
 ## Binary Search
 35 Search Insert Position
 69 Sqrt(x)
+278 First Bad Version
+367 Valid Perfect Square
+374 Guess Number Higher or Lower
+
+
 
 ## Tree
 226 Invert Binary Tree
@@ -52,6 +67,10 @@
 ## Dynamic Programming
 53 Maximum Subarray
 70 Climbing Stairs
+303 Range Sum Query - Immutable
+
+## Minimax
+292	Nim Game
 
 ## Floyd Cycle Detection Algorithm
 
