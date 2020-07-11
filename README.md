@@ -12,6 +12,7 @@
 231 Power of Two
 342 Power of Four
 371 Sum of Two Integers
+405 Convert a Number to Hexadecimal
 
 ## String
 14 Longest Common Prefix
@@ -35,6 +36,7 @@
 299 Bulls and Cows
 387 First Unique Character in a String
 389 Find the Difference
+409 Longest Palindrome
 
 ## Linked List
 21 Merge Two Sorted Lists
@@ -47,6 +49,7 @@
 234 Palindrome Linked List
 283 Move Zeroes
 345 Reverse Vowels of a String
+392 Is Subsequence
 
 ## Binary Search
 35 Search Insert Position
@@ -55,11 +58,10 @@
 367 Valid Perfect Square
 374 Guess Number Higher or Lower
 
-
-
 ## Tree
 226 Invert Binary Tree
 235 Lowest Common Ancestor of a Binary Search Tree
+404 Sum of Left Leaves
 
 ## Depth First Search
 257 Binary Tree Paths
@@ -71,6 +73,9 @@
 
 ## Minimax
 292	Nim Game
+
+## Backtracking
+401 Binary Watch
 
 ## Floyd Cycle Detection Algorithm
 
