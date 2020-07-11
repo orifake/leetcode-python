@@ -19,9 +19,11 @@
 38 Count and Say
 58 Length of Last Word
 383 Ransom Note
+415 Add Strings
 
 ## Array
 66 Plus One
+414 Third Maximum Number
 
 ## stack
 20 Valid Parentheses 
