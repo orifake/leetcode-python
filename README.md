@@ -7,12 +7,15 @@
 263 Ugly Number
 268 Missing Number
 326 Power of Three
+453	Minimum Moves to Equal Array Elements
+507 Perfect Number
 
 ## Bit Manipulation
 231 Power of Two
 342 Power of Four
 371 Sum of Two Integers
 405 Convert a Number to Hexadecimal
+461 Hamming Distance
 
 ## String
 14 Longest Common Prefix
@@ -20,15 +23,22 @@
 58 Length of Last Word
 383 Ransom Note
 415 Add Strings
+459 Repeated Substring Pattern
+520	Detect Capital
+521 Longest Uncommon Subsequence I
 
 ## Array
 66 Plus One
 414 Third Maximum Number
+448 Find All Numbers Disappeared in an Array
+509 Fibonacci Number
+532 K-diff Pairs in an Array
 
 ## stack
 20 Valid Parentheses 
 225 Implement Stack using Queues
 232 Implement Queue using Stacks
+496 Next Greater Element I
 
 ## Hash Table
 1 Two Sum
@@ -39,6 +49,9 @@
 387 First Unique Character in a String
 389 Find the Difference
 409 Longest Palindrome
+447 Number of Boomerangs
+463 Island Perimeter
+500 Keyboard Row
 
 ## Linked List
 21 Merge Two Sorted Lists
@@ -59,11 +72,15 @@
 278 First Bad Version
 367 Valid Perfect Square
 374 Guess Number Higher or Lower
+475 Heaters
 
 ## Tree
 226 Invert Binary Tree
 235 Lowest Common Ancestor of a Binary Search Tree
 404 Sum of Left Leaves
+437 Path Sum III
+501 Find Mode in Binary Search Tree
+530 Minimum Absolute Difference in BST
 
 ## Depth First Search
 257 Binary Tree Paths
@@ -78,6 +95,9 @@
 
 ## Backtracking
 401 Binary Watch
+
+## Gready
+455 Assign Cookies
 
 ## Floyd Cycle Detection Algorithm
 
