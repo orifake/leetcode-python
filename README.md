@@ -26,6 +26,8 @@
 459 Repeated Substring Pattern
 520	Detect Capital
 521 Longest Uncommon Subsequence I
+541 Reverse String II
+557 Reverse Words in a String III
 
 ## Array
 66 Plus One
@@ -33,6 +35,7 @@
 448 Find All Numbers Disappeared in an Array
 509 Fibonacci Number
 532 K-diff Pairs in an Array
+561 Array Partition I
 
 ## stack
 20 Valid Parentheses 
@@ -81,9 +84,14 @@
 437 Path Sum III
 501 Find Mode in Binary Search Tree
 530 Minimum Absolute Difference in BST
+538 Convert BST to Greater Tree
+543 Diameter of Binary Tree
+563 Binary Tree Tilt
+
 
 ## Depth First Search
 257 Binary Tree Paths
+559 Maximum Depth of N-ary Tree
 
 ## Dynamic Programming
 53 Maximum Subarray
