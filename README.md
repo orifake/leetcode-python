@@ -9,6 +9,9 @@
 326 Power of Three
 453	Minimum Moves to Equal Array Elements
 507 Perfect Number
+598 Range Addition II
+599 Minimum Index Sum of Two Lists
+
 
 ## Bit Manipulation
 231 Power of Two
@@ -36,6 +39,9 @@
 509 Fibonacci Number
 532 K-diff Pairs in an Array
 561 Array Partition I
+566 Reshape the Matrix
+581 Shortest Unsorted Continuous Subarray
+605 Can Place Flowers
 
 ## stack
 20 Valid Parentheses 
@@ -55,6 +61,8 @@
 447 Number of Boomerangs
 463 Island Perimeter
 500 Keyboard Row
+575 Distribute Candies
+594 Longest Harmonious Subsequence
 
 ## Linked List
 21 Merge Two Sorted Lists
@@ -87,6 +95,10 @@
 538 Convert BST to Greater Tree
 543 Diameter of Binary Tree
 563 Binary Tree Tilt
+572 Subtree of Another Tree
+589 N-ary Tree Preorder Traversal
+590 N-ary Tree Postorder Traversal
+606 Construct String from Binary Tree
 
 
 ## Depth First Search
