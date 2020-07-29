@@ -11,6 +11,8 @@
 507 Perfect Number
 598 Range Addition II
 599 Minimum Index Sum of Two Lists
+628 Maximum Product of Three Numbers
+633 Sum of Square Numbers
 
 
 ## Bit Manipulation
@@ -99,6 +101,7 @@
 589 N-ary Tree Preorder Traversal
 590 N-ary Tree Postorder Traversal
 606 Construct String from Binary Tree
+617 Merge Two Binary Trees
 
 
 ## Depth First Search
