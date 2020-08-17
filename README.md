@@ -13,7 +13,9 @@
 599 Minimum Index Sum of Two Lists
 628 Maximum Product of Three Numbers
 633 Sum of Square Numbers
-
+728 Self Dividing Numbers
+812 Largest Triangle Area
+836 Rectangle Overlap
 
 ## Bit Manipulation
 231 Power of Two
@@ -21,6 +23,9 @@
 371 Sum of Two Integers
 405 Convert a Number to Hexadecimal
 461 Hamming Distance
+693 Binary Number with Alternating Bits
+762 Prime Number of Set Bits in Binary Representation
+
 
 ## String
 14 Longest Common Prefix
@@ -33,6 +38,13 @@
 521 Longest Uncommon Subsequence I
 541 Reverse String II
 557 Reverse Words in a String III
+657 Robot Return to Origin
+686 Repeated String Match
+696 Count Binary Substrings
+709 To Lower Case
+788 Rotated Digits
+819 Most Common Word
+824 Goat Latin
 
 ## Array
 66 Plus One
@@ -44,12 +56,26 @@
 566 Reshape the Matrix
 581 Shortest Unsorted Continuous Subarray
 605 Can Place Flowers
+643 Maximum Average Subarray I
+661 Image Smoother
+665 Non-decreasing Array
+674 Longest Continuous Increasing Subsequence
+697 Degree of an Array
+717 1-bit and 2-bit Characters
+724 Find Pivot Index
+747 Largest Number At Least Twice of Others
+766 Toeplitz Matrix
+830	Positions of Large Groups
+832 Flipping an Image
+840 Magic Squares In Grid
 
 ## stack
 20 Valid Parentheses 
 225 Implement Stack using Queues
 232 Implement Queue using Stacks
 496 Next Greater Element I
+682 Baseball Game
+
 
 ## Hash Table
 1 Two Sum
@@ -65,10 +91,17 @@
 500 Keyboard Row
 575 Distribute Candies
 594 Longest Harmonious Subsequence
+720 Longest Word in Dictionary
+748 Shortest Completing Word
+771 Jewels and Stones
+804 Unique Morse Code Words
+811 Subdomain Visit Count
+
 
 ## Linked List
 21 Merge Two Sorted Lists
 234 Palindrome Linked List
+
 
 ## Two Pointer
 26 Remove Duplicates from Sorted Array
@@ -78,6 +111,8 @@
 283 Move Zeroes
 345 Reverse Vowels of a String
 392 Is Subsequence
+844 Backspace String Compare
+
 
 ## Binary Search
 35 Search Insert Position
@@ -86,6 +121,9 @@
 367 Valid Perfect Square
 374 Guess Number Higher or Lower
 475 Heaters
+704 Binary Search
+744 Find Smallest Letter Greater Than Target
+
 
 ## Tree
 226 Invert Binary Tree
@@ -103,26 +141,46 @@
 606 Construct String from Binary Tree
 617 Merge Two Binary Trees
 637 Average of Levels in Binary Tree
-
-
+653 Two Sum IV - Input is a BST
+669 Trim a Binary Search Tree
+671 Second Minimum Node In a Binary Tree
+687 Longest Univalue Path
+783 Minimum Distance Between BST Nodes
 
 ## Depth First Search
 257 Binary Tree Paths
 559 Maximum Depth of N-ary Tree
+690 Employee Importance
+733 Flood Fill
+
 
 ## Dynamic Programming
 53 Maximum Subarray
 70 Climbing Stairs
 303 Range Sum Query - Immutable
+746 Min Cost Climbing Stairs
+
 
 ## Minimax
 292	Nim Game
 
+
 ## Backtracking
 401 Binary Watch
+784 Letter Case Permutation
+
 
 ## Gready
 455 Assign Cookies
+680 Valid Palindrome II
+
+
+## Heap
+703 Kth Largest Element in a Stream
+
+## Design
+705 Design HashSet
+707 Design Linked List
 
 ## Floyd Cycle Detection Algorithm
 
