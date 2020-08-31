@@ -16,6 +16,10 @@
 728 Self Dividing Numbers
 812 Largest Triangle Area
 836 Rectangle Overlap
+868 Binary Gap
+883 Projection Area of 3D Shapes
+908 Smallest Range I
+914 X of a Kind in a Deck of Cards
 
 ## Bit Manipulation
 231 Power of Two
@@ -45,6 +49,9 @@
 788 Rotated Digits
 819 Most Common Word
 824 Goat Latin
+859 Buddy Strings
+893 Groups of Special-Equivalent Strings
+
 
 ## Array
 66 Plus One
@@ -68,6 +75,11 @@
 830	Positions of Large Groups
 832 Flipping an Image
 840 Magic Squares In Grid
+849 Maximize Distance to Closest Person
+867 Transpose Matrix
+888 Fair Candy Swap
+896 Monotonic Array
+905 Sort Array By Parity
 
 ## stack
 20 Valid Parentheses 
@@ -96,11 +108,13 @@
 771 Jewels and Stones
 804 Unique Morse Code Words
 811 Subdomain Visit Count
+884 Uncommon Words from Two Sentences
 
 
 ## Linked List
 21 Merge Two Sorted Lists
 234 Palindrome Linked List
+876 Middle of the Linked List
 
 
 ## Two Pointer
@@ -123,6 +137,7 @@
 475 Heaters
 704 Binary Search
 744 Find Smallest Letter Greater Than Target
+852 Peak Index in a Mountain Array
 
 
 ## Tree
@@ -146,6 +161,8 @@
 671 Second Minimum Node In a Binary Tree
 687 Longest Univalue Path
 783 Minimum Distance Between BST Nodes
+872	Leaf-Similar Trees
+897 Increasing Order Search Tree
 
 ## Depth First Search
 257 Binary Tree Paths
@@ -173,6 +190,8 @@
 ## Gready
 455 Assign Cookies
 680 Valid Palindrome II
+860 Lemonade Change
+874 Walking Robot Simulation
 
 
 ## Heap
@@ -181,6 +200,9 @@
 ## Design
 705 Design HashSet
 707 Design Linked List
+
+## geometry
+892 Surface Area of 3D Shapes
 
 ## Floyd Cycle Detection Algorithm
 
