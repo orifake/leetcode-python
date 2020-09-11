@@ -20,6 +20,11 @@
 883 Projection Area of 3D Shapes
 908 Smallest Range I
 914 X of a Kind in a Deck of Cards
+942 DI String Match
+949 Largest Time for Given Digits
+970 Powerful Integers
+976 Largest Perimeter Triangle
+
 
 ## Bit Manipulation
 231 Power of Two
@@ -51,6 +56,9 @@
 824 Goat Latin
 859 Buddy Strings
 893 Groups of Special-Equivalent Strings
+917 Reverse Only Letters
+929 Unique Email Addresses
+937 Reorder Data in Log Files
 
 
 ## Array
@@ -80,8 +88,14 @@
 888 Fair Candy Swap
 896 Monotonic Array
 905 Sort Array By Parity
+922 Sort Array By Parity II
+941 Valid Mountain Array
+989 Add to Array-Form of Integer
 
-## stack
+## Queue
+933 Number of Recent Calls
+
+## Stack
 20 Valid Parentheses 
 225 Implement Stack using Queues
 232 Implement Queue using Stacks
@@ -109,6 +123,8 @@
 804 Unique Morse Code Words
 811 Subdomain Visit Count
 884 Uncommon Words from Two Sentences
+953 Verifying an Alien Dictionary
+961 N-Repeated Element in Size 2N Array
 
 
 ## Linked List
@@ -126,6 +142,7 @@
 345 Reverse Vowels of a String
 392 Is Subsequence
 844 Backspace String Compare
+925 Long Pressed Name
 
 
 ## Binary Search
@@ -163,6 +180,10 @@
 783 Minimum Distance Between BST Nodes
 872	Leaf-Similar Trees
 897 Increasing Order Search Tree
+938 Range Sum of BST
+965 Univalued Binary Tree
+993 Cousins in Binary Tree
+
 
 ## Depth First Search
 257 Binary Tree Paths
@@ -192,6 +213,7 @@
 680 Valid Palindrome II
 860 Lemonade Change
 874 Walking Robot Simulation
+944 Delete Columns to Make Sorted
 
 
 ## Heap
