@@ -24,7 +24,7 @@
 949 Largest Time for Given Digits
 970 Powerful Integers
 976 Largest Perimeter Triangle
-
+1009 Complement of Base 10 Integer
 
 ## Bit Manipulation
 231 Power of Two
@@ -91,6 +91,11 @@
 922 Sort Array By Parity II
 941 Valid Mountain Array
 989 Add to Array-Form of Integer
+999 Available Captures for Rook
+1010 Pairs of Songs With Total Durations Divisible by 60
+1013 Partition Array Into Three Parts With Equal Sum
+1018 Binary Prefix Divisible By 5
+
 
 ## Queue
 933 Number of Recent Calls
@@ -125,7 +130,7 @@
 884 Uncommon Words from Two Sentences
 953 Verifying an Alien Dictionary
 961 N-Repeated Element in Size 2N Array
-
+1002 Find Common Characters
 
 ## Linked List
 21 Merge Two Sorted Lists
@@ -183,6 +188,7 @@
 938 Range Sum of BST
 965 Univalued Binary Tree
 993 Cousins in Binary Tree
+1022 Sum of Root To Leaf Binary Numbers
 
 
 ## Depth First Search
@@ -214,7 +220,11 @@
 860 Lemonade Change
 874 Walking Robot Simulation
 944 Delete Columns to Make Sorted
+1005 Maximize Sum Of Array After K Negations
 
+
+# Graph
+997 Find the Town Judge
 
 ## Heap
 703 Kth Largest Element in a Stream
