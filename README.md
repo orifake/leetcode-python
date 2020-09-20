@@ -25,6 +25,8 @@
 970 Powerful Integers
 976 Largest Perimeter Triangle
 1009 Complement of Base 10 Integer
+1025 Divisor Game
+
 
 ## Bit Manipulation
 231 Power of Two
@@ -59,6 +61,7 @@
 917 Reverse Only Letters
 929 Unique Email Addresses
 937 Reorder Data in Log Files
+1071 Greatest Common Divisor of Strings
 
 
 ## Array
@@ -95,7 +98,7 @@
 1010 Pairs of Songs With Total Durations Divisible by 60
 1013 Partition Array Into Three Parts With Equal Sum
 1018 Binary Prefix Divisible By 5
-
+1051 Height Checker
 
 ## Queue
 933 Number of Recent Calls
@@ -106,6 +109,10 @@
 232 Implement Queue using Stacks
 496 Next Greater Element I
 682 Baseball Game
+1047 Remove All Adjacent Duplicates In String
+
+## Sort
+1030 Matrix Cells in Distance Order
 
 
 ## Hash Table
@@ -228,6 +235,7 @@
 
 ## Heap
 703 Kth Largest Element in a Stream
+1046 Last Stone Weight
 
 ## Design
 705 Design HashSet
@@ -235,6 +243,9 @@
 
 ## geometry
 892 Surface Area of 3D Shapes
+
+## Brainteaser
+1033 Moving Stones Until Consecutive
 
 ## Floyd Cycle Detection Algorithm
 
