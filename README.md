@@ -26,6 +26,12 @@
 976 Largest Perimeter Triangle
 1009 Complement of Base 10 Integer
 1025 Divisor Game
+1103 Distribute Candies to People
+1154 Day of the Year
+1175 Prime Arrangements
+1217 Minimum Cost to Move Chips to The Same Position
+1237 Find Positive Integer Solution for a Given Equation
+1281 Subtract the Product and Sum of Digits of an Integer
 
 
 ## Bit Manipulation
@@ -62,6 +68,7 @@
 929 Unique Email Addresses
 937 Reorder Data in Log Files
 1071 Greatest Common Divisor of Strings
+1108 Defanging an IP Address   
 
 
 ## Array
@@ -99,6 +106,13 @@
 1013 Partition Array Into Three Parts With Equal Sum
 1018 Binary Prefix Divisible By 5
 1051 Height Checker
+1128 Number of Equivalent Domino Pairs
+1184 Distance Between Bus Stops
+1185 Day of the Week
+1252 Cells with Odd Values in a Matrix
+1260 Shift 2D Grid
+1275 Find Winner on a Tic Tac Toe Game
+1287 Element Appearing More Than 25% In Sorted Array
 
 ## Queue
 933 Number of Recent Calls
@@ -138,6 +152,11 @@
 953 Verifying an Alien Dictionary
 961 N-Repeated Element in Size 2N Array
 1002 Find Common Characters
+1078 Occurrences After Bigram
+1160 Find Words That Can Be Formed by Characters
+1189 Maximum Number of Balloons
+1207 Unique Number of Occurrences
+
 
 ## Linked List
 21 Merge Two Sorted Lists
@@ -228,6 +247,10 @@
 874 Walking Robot Simulation
 944 Delete Columns to Make Sorted
 1005 Maximize Sum Of Array After K Negations
+1221 Split a String in Balanced Strings
+
+## Recursion
+1137 N-th Tribonacci Number
 
 
 # Graph
@@ -243,6 +266,9 @@
 
 ## geometry
 892 Surface Area of 3D Shapes
+1232 Check If It Is a Straight Line
+1266 Minimum Time Visiting All Points
+
 
 ## Brainteaser
 1033 Moving Stones Until Consecutive
