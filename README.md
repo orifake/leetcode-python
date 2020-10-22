@@ -1,278 +1,120 @@
-## Math
-7 Reverse Integer
-9 Palindrome Number
-13 Roman to Integer
-67 Add Binary
-256 Add Digits
-263 Ugly Number
-268 Missing Number
-326 Power of Three
-453	Minimum Moves to Equal Array Elements
-507 Perfect Number
-598 Range Addition II
-599 Minimum Index Sum of Two Lists
-628 Maximum Product of Three Numbers
-633 Sum of Square Numbers
-728 Self Dividing Numbers
-812 Largest Triangle Area
-836 Rectangle Overlap
-868 Binary Gap
-883 Projection Area of 3D Shapes
-908 Smallest Range I
-914 X of a Kind in a Deck of Cards
-942 DI String Match
-949 Largest Time for Given Digits
-970 Powerful Integers
-976 Largest Perimeter Triangle
-1009 Complement of Base 10 Integer
-1025 Divisor Game
-1103 Distribute Candies to People
-1154 Day of the Year
-1175 Prime Arrangements
-1217 Minimum Cost to Move Chips to The Same Position
-1237 Find Positive Integer Solution for a Given Equation
-1281 Subtract the Product and Sum of Digits of an Integer
+## Algorithms
 
+* [Bit Manipulation](https://github.com/orifake/leetcode-rust#bit-manipulation)
+* [Array](https://github.com/orifake/leetcode-rust#array)
+* [String](https://github.com/orifake/leetcode-rust#string)
+* [Linked List](https://github.com/orifake/leetcode-rust#linked-list)
+* [Stack](https://github.com/orifake/leetcode-rust#stack)
+* [Queue](https://github.com/orifake/leetcode-rust#queue)
+* [Binary Heap](https://github.com/orifake/leetcode-rust#binary-heap)
+* [Tree](https://github.com/orifake/leetcode-rust#tree)
+* [Hash Table](https://github.com/orifake/leetcode-rust#hash-table)
+* [Math](https://github.com/orifake/leetcode-rust#math)
+* [Two Pointers](https://github.com/orifake/leetcode-rust#two-pointers)
+* [Sort](https://github.com/orifake/leetcode-rust#sort)
+* [Recursion](https://github.com/orifake/leetcode-rust#recursion)
+* [Binary Search](https://github.com/orifake/leetcode-rust#binary-search)
+* [Binary Search Tree](https://github.com/orifake/leetcode-rust#binary-search-tree)
+* [Breadth-First Search](https://github.com/orifake/leetcode-rust#breadth-first-search)
+* [Depth-First Search](https://github.com/orifake/leetcode-rust#depth-first-search)
+* [Backtracking](https://github.com/orifake/leetcode-rust#backtracking)
+* [Dynamic Programming](https://github.com/orifake/leetcode-rust#dynamic-programming)
+* [Greedy](https://github.com/orifake/leetcode-rust#greedy)
+* [Graph](https://github.com/orifake/leetcode-rust#graph)
+* [Geometry](https://github.com/orifake/leetcode-rust#geometry)
+* [Simulation](https://github.com/orifake/leetcode-rust#simulation)
+* [Design](https://github.com/orifake/leetcode-rust#design)
+* [Concurrency](https://github.com/orifake/leetcode-rust#concurrency)
 
 ## Bit Manipulation
-231 Power of Two
-342 Power of Four
-371 Sum of Two Integers
-405 Convert a Number to Hexadecimal
-461 Hamming Distance
-693 Binary Number with Alternating Bits
-762 Prime Number of Set Bits in Binary Representation
-
-
-## String
-14 Longest Common Prefix
-38 Count and Say
-58 Length of Last Word
-383 Ransom Note
-415 Add Strings
-459 Repeated Substring Pattern
-520	Detect Capital
-521 Longest Uncommon Subsequence I
-541 Reverse String II
-557 Reverse Words in a String III
-657 Robot Return to Origin
-686 Repeated String Match
-696 Count Binary Substrings
-709 To Lower Case
-788 Rotated Digits
-819 Most Common Word
-824 Goat Latin
-859 Buddy Strings
-893 Groups of Special-Equivalent Strings
-917 Reverse Only Letters
-929 Unique Email Addresses
-937 Reorder Data in Log Files
-1071 Greatest Common Divisor of Strings
-1108 Defanging an IP Address   
-
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Array
-66 Plus One
-414 Third Maximum Number
-448 Find All Numbers Disappeared in an Array
-509 Fibonacci Number
-532 K-diff Pairs in an Array
-561 Array Partition I
-566 Reshape the Matrix
-581 Shortest Unsorted Continuous Subarray
-605 Can Place Flowers
-643 Maximum Average Subarray I
-661 Image Smoother
-665 Non-decreasing Array
-674 Longest Continuous Increasing Subsequence
-697 Degree of an Array
-717 1-bit and 2-bit Characters
-724 Find Pivot Index
-747 Largest Number At Least Twice of Others
-766 Toeplitz Matrix
-830	Positions of Large Groups
-832 Flipping an Image
-840 Magic Squares In Grid
-849 Maximize Distance to Closest Person
-867 Transpose Matrix
-888 Fair Candy Swap
-896 Monotonic Array
-905 Sort Array By Parity
-922 Sort Array By Parity II
-941 Valid Mountain Array
-989 Add to Array-Form of Integer
-999 Available Captures for Rook
-1010 Pairs of Songs With Total Durations Divisible by 60
-1013 Partition Array Into Three Parts With Equal Sum
-1018 Binary Prefix Divisible By 5
-1051 Height Checker
-1128 Number of Equivalent Domino Pairs
-1184 Distance Between Bus Stops
-1185 Day of the Week
-1252 Cells with Odd Values in a Matrix
-1260 Shift 2D Grid
-1275 Find Winner on a Tic Tac Toe Game
-1287 Element Appearing More Than 25% In Sorted Array
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
-## Queue
-933 Number of Recent Calls
-
-## Stack
-20 Valid Parentheses 
-225 Implement Stack using Queues
-232 Implement Queue using Stacks
-496 Next Greater Element I
-682 Baseball Game
-1047 Remove All Adjacent Duplicates In String
-
-## Sort
-1030 Matrix Cells in Distance Order
-
-
-## Hash Table
-1 Two Sum
-217 Contains Duplicate
-219 Contains Duplicate II
-290 Word Pattern
-299 Bulls and Cows
-387 First Unique Character in a String
-389 Find the Difference
-409 Longest Palindrome
-447 Number of Boomerangs
-463 Island Perimeter
-500 Keyboard Row
-575 Distribute Candies
-594 Longest Harmonious Subsequence
-720 Longest Word in Dictionary
-748 Shortest Completing Word
-771 Jewels and Stones
-804 Unique Morse Code Words
-811 Subdomain Visit Count
-884 Uncommon Words from Two Sentences
-953 Verifying an Alien Dictionary
-961 N-Repeated Element in Size 2N Array
-1002 Find Common Characters
-1078 Occurrences After Bigram
-1160 Find Words That Can Be Formed by Characters
-1189 Maximum Number of Balloons
-1207 Unique Number of Occurrences
-
+## String
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Linked List
-21 Merge Two Sorted Lists
-234 Palindrome Linked List
-876 Middle of the Linked List
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
+## Queue
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
-## Two Pointer
-26 Remove Duplicates from Sorted Array
-27 Remove Element
-28 Implement strStr()
-234 Palindrome Linked List
-283 Move Zeroes
-345 Reverse Vowels of a String
-392 Is Subsequence
-844 Backspace String Compare
-925 Long Pressed Name
+## Binary Heap
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
+## Hash Table
+| #    | Title                                             | Solution                                                                          | Time | Space | Difficulty | Note |
+| ---- | ------------------------------------------------- | --------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum.py) | O(n) | O(n)  | Easy       |      |
 
-## Binary Search
-35 Search Insert Position
-69 Sqrt(x)
-278 First Bad Version
-367 Valid Perfect Square
-374 Guess Number Higher or Lower
-475 Heaters
-704 Binary Search
-744 Find Smallest Letter Greater Than Target
-852 Peak Index in a Mountain Array
+## Math
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
+## Sort
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
-## Tree
-226 Invert Binary Tree
-235 Lowest Common Ancestor of a Binary Search Tree
-404 Sum of Left Leaves
-437 Path Sum III
-501 Find Mode in Binary Search Tree
-530 Minimum Absolute Difference in BST
-538 Convert BST to Greater Tree
-543 Diameter of Binary Tree
-563 Binary Tree Tilt
-572 Subtree of Another Tree
-589 N-ary Tree Preorder Traversal
-590 N-ary Tree Postorder Traversal
-606 Construct String from Binary Tree
-617 Merge Two Binary Trees
-637 Average of Levels in Binary Tree
-653 Two Sum IV - Input is a BST
-669 Trim a Binary Search Tree
-671 Second Minimum Node In a Binary Tree
-687 Longest Univalue Path
-783 Minimum Distance Between BST Nodes
-872	Leaf-Similar Trees
-897 Increasing Order Search Tree
-938 Range Sum of BST
-965 Univalued Binary Tree
-993 Cousins in Binary Tree
-1022 Sum of Root To Leaf Binary Numbers
-
-
-## Depth First Search
-257 Binary Tree Paths
-559 Maximum Depth of N-ary Tree
-690 Employee Importance
-733 Flood Fill
-
-
-## Dynamic Programming
-53 Maximum Subarray
-70 Climbing Stairs
-303 Range Sum Query - Immutable
-746 Min Cost Climbing Stairs
-
-
-## Minimax
-292	Nim Game
-
-
-## Backtracking
-401 Binary Watch
-784 Letter Case Permutation
-
-
-## Gready
-455 Assign Cookies
-680 Valid Palindrome II
-860 Lemonade Change
-874 Walking Robot Simulation
-944 Delete Columns to Make Sorted
-1005 Maximize Sum Of Array After K Negations
-1221 Split a String in Balanced Strings
+## Two Pointers
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Recursion
-1137 N-th Tribonacci Number
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
+## Binary Search
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
-# Graph
-997 Find the Town Judge
+## Binary Search Tree
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
-## Heap
-703 Kth Largest Element in a Stream
-1046 Last Stone Weight
+## Breadth-First Search
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+
+## Depth-First Search
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+
+## Backtracking
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+
+## Dynamic Programming
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+
+## Greedy
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+
+## Graph
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+
+## Geometry
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+
+## Simulation
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Design
-705 Design HashSet
-707 Design Linked List
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
-## geometry
-892 Surface Area of 3D Shapes
-1232 Check If It Is a Straight Line
-1266 Minimum Time Visiting All Points
-
-
-## Brainteaser
-1033 Moving Stones Until Consecutive
-
-## Floyd Cycle Detection Algorithm
-
-## Sieve of Eratosthenes
+## Concurrency
+| #   | Title | Solution | Time | Space | Difficulty | Note |
+| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
