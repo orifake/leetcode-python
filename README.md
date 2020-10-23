@@ -58,6 +58,7 @@
 ## Math
 | #   | Title | Solution | Time | Space | Difficulty | Note |
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/two-sum/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Integer.py) | O(1) | O(1)  | Easy       |      |
 
 ## Sort
 | #   | Title | Solution | Time | Space | Difficulty | Note |
