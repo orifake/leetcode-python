@@ -59,6 +59,7 @@
 | #   | Title | Solution | Time | Space | Difficulty | Note |
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/two-sum/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Integer.py) | O(1) | O(1)  | Easy       |      |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/two-sum/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Palindrome%20Number.py) | O(1) | O(1)  | Easy       |      |
 
 ## Sort
 | #   | Title | Solution | Time | Space | Difficulty | Note |
