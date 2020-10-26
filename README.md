@@ -43,6 +43,11 @@
 | #   | Title | Solution | Time | Space | Difficulty | Note |
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
+## Stack
+| #    | Title                                                                 | Solution                                                                                    | Time | Space | Difficulty | Note |
+| ---- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Valid%20Parentheses.py) | O(n) | O(1)  | Easy       |      |
+
 ## Queue
 | #   | Title | Solution | Time | Space | Difficulty | Note |
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
