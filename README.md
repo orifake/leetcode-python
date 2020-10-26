@@ -35,8 +35,9 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## String
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                                                         | Solution                                                                                          | Time   | Space | Difficulty | Note |
+| ---- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------ | ----- | ---------- | ---- |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Common%20Prefix.py) | O(n*k) | O(1)  | Easy       |      |
 
 ## Linked List
 | #   | Title | Solution | Time | Space | Difficulty | Note |
@@ -56,10 +57,10 @@
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum.py) | O(n) | O(n)  | Easy       |      |
 
 ## Math
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
-| 0007 | [Reverse Integer](https://leetcode.com/problems/two-sum/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Integer.py) | O(1) | O(1)  | Easy       |      |
-| 0009 | [Palindrome Number](https://leetcode.com/problems/two-sum/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Palindrome%20Number.py) | O(1) | O(1)  | Easy       |      |
+| #    | Title                                                                | Solution                                                                                     | Time | Space | Difficulty | Note |
+| ---- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/two-sum/)            | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Integer.py)    | O(1) | O(1)  | Easy       |      |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/two-sum/)          | [python](https://github.com/orifake/leetcode-python/blob/master/src/Palindrome%20Number.py)  | O(1) | O(1)  | Easy       |      |
 | 0013 | [Palindrome Number](https://leetcode.com/problems/roman-to-integer/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Roman%20to%20Integer.py) | O(n) | O(1)  | Easy       |      |
 
 ## Sort
