@@ -31,8 +31,9 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Array
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                                                                                     | Solution                                                                                          | Time | Space | Difficulty | Note        |
+| ---- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ----------- |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Duplicates%20from%20Sorted%20Array.py) | O(n) | O(1)  | Easy       | Two Pointer |
 
 ## String
 | #    | Title                                                                         | Solution                                                                                          | Time   | Space | Difficulty | Note |
@@ -40,8 +41,8 @@
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Common%20Prefix.py) | O(n*k) | O(1)  | Easy       |      |
 
 ## Linked List
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                                                           | Solution                                                                                             | Time | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Merge%20Two%20Sorted%20Lists.py) | O(n) | O(1)  | Easy       |      |
 
 ## Stack
