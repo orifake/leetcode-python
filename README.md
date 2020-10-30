@@ -31,15 +31,16 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Array
-| #    | Title                                                                                                     | Solution                                                                                          | Time | Space | Difficulty | Note        |
-| ---- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ----------- |
+| #    | Title                                                                                                     | Solution                                                                                                            | Time | Space | Difficulty | Note        |
+| ---- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ----------- |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Duplicates%20from%20Sorted%20Array.py) | O(n) | O(1)  | Easy       | Two Pointer |
-| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Element.py) | O(n) | O(1)  | Easy       | Two Pointer |
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Element.py)                            | O(n) | O(1)  | Easy       | Two Pointer |
 
 ## String
 | #    | Title                                                                         | Solution                                                                                          | Time   | Space | Difficulty | Note |
 | ---- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------ | ----- | ---------- | ---- |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Common%20Prefix.py) | O(n*k) | O(1)  | Easy       |      |
+| 0014 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20strStr.py)        | O(n+k) | O(k)  | Easy       |      |
 
 ## Linked List
 | #    | Title                                                                           | Solution                                                                                             | Time | Space | Difficulty | Note |
@@ -58,6 +59,7 @@
 ## Binary Heap
 | #   | Title | Solution | Time | Space | Difficulty | Note |
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Search%20Insert%20Position.py) | O(logn) | O(1)  | Easy       |      |
 
 ## Hash Table
 | #    | Title                                             | Solution                                                                          | Time | Space | Difficulty | Note |
