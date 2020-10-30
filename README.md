@@ -34,6 +34,7 @@
 | #    | Title                                                                                                     | Solution                                                                                          | Time | Space | Difficulty | Note        |
 | ---- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ----------- |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Duplicates%20from%20Sorted%20Array.py) | O(n) | O(1)  | Easy       | Two Pointer |
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Element.py) | O(n) | O(1)  | Easy       | Two Pointer |
 
 ## String
 | #    | Title                                                                         | Solution                                                                                          | Time   | Space | Difficulty | Note |
