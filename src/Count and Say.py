@@ -1,24 +1,21 @@
 class Solution(object):
     def countAndSay(self, n):
-        """
-        :type n: int
-        :rtype: str
-        """
-        def count(string):    
-            V = deque()
-            N = 1
-            for i in range(0, len(string) - 1):
-                if string[i] == string[i+1]:
-                    N += 1
-                else:
-                    V.append(str(N))    
-                    V.append(string[i])
-                    N = 1   
-            V.append(str(N))        
-            V.append(string[-1])
-            return "".join(V)
-    
-        if n == 1:
-            return "1"
-        else:
-            return count(self.countAndSay(n-1))  
+        seq = "1"
+        for i in range(n - 1):
+            seq = self.getNext(seq)
+        return seq
+
+    def getNext(self, seq):
+        i, next_seq = 0, ""
+        while i < len(seq):
+            cnt = 1
+            while i < len(seq) - 1 and seq[i] == seq[i + 1]:
+                cnt += 1
+                i += 1
+            next_seq += str(cnt) + seq[i]
+            i += 1
+        return next_seq
+
+
+t = Solution()
+print(t.countAndSay(4))

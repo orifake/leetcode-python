@@ -37,10 +37,11 @@
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Element.py)                            | O(n) | O(1)  | Easy       | Two Pointer |
 
 ## String
-| #    | Title                                                                         | Solution                                                                                          | Time   | Space | Difficulty | Note |
-| ---- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------ | ----- | ---------- | ---- |
-| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Common%20Prefix.py) | O(n*k) | O(1)  | Easy       |      |
-| 0014 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20strStr.py)        | O(n+k) | O(k)  | Easy       |      |
+| #    | Title                                                                         | Solution                                                                                          | Time       | Space  | Difficulty | Note |
+| ---- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- | ------ | ---------- | ---- |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Common%20Prefix.py) | O(n*k)     | O(1)   | Easy       |      |
+| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20strStr.py)        | O(n+k)     | O(k)   | Easy       |      |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Count%20and%20Say.py)         | O(n * 2^n) | O(2^n) | Easy       |      |
 
 ## Linked List
 | #    | Title                                                                           | Solution                                                                                             | Time | Space | Difficulty | Note |
@@ -57,8 +58,8 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Binary Heap
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                                                           | Solution                                                                                           | Time    | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------- | ----- | ---------- | ---- |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Search%20Insert%20Position.py) | O(logn) | O(1)  | Easy       |      |
 
 ## Hash Table
