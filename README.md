@@ -107,8 +107,9 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Dynamic Programming
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                                                | Solution                                                                                     | Time | Space | Difficulty | Note |
+| ---- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Maximum%20Subarray.py) | O(n) | O(1)  | Easy       |      |
 
 ## Greedy
 | #   | Title | Solution | Time | Space | Difficulty | Note |
