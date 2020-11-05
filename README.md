@@ -42,6 +42,8 @@
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Common%20Prefix.py) | O(n*k)     | O(1)   | Easy       |      |
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20strStr.py)        | O(n+k)     | O(k)   | Easy       |      |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Count%20and%20Say.py)         | O(n * 2^n) | O(2^n) | Easy       |      |
+| 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Length%20of%20Last%20Word.py) | O(n)       | O(1)   | Easy       |      |
+
 
 ## Linked List
 | #    | Title                                                                           | Solution                                                                                             | Time | Space | Difficulty | Note |
@@ -107,8 +109,8 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Dynamic Programming
-| #    | Title                                                                | Solution                                                                                     | Time | Space | Difficulty | Note |
-| ---- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                                               | Solution                                                                                   | Time | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---- | ----- | ---------- | ---- |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Maximum%20Subarray.py) | O(n) | O(1)  | Easy       |      |
 
 ## Greedy
