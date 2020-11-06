@@ -6,5 +6,15 @@ class Solution:
         return result[n]
 
 
+# Time:  O(n)
+# Space: O(1)
+class Solution2:
+    def climbStairs(self, n: int) -> int:
+        prev, current = 0, 1
+        for i in range(n):
+            prev, current = current, prev + current,
+        return current
+
+
 t = Solution()
 print(t.climbStairs(3))
