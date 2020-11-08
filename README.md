@@ -50,6 +50,7 @@
 | #    | Title                                                                           | Solution                                                                                             | Time | Space | Difficulty | Note |
 | ---- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Merge%20Two%20Sorted%20Lists.py) | O(n) | O(1)  | Easy       |      |
+| 0083   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/   ) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Merge%20Two%20Sorted%20Lists.py) | O(n) | O(1)  | Easy       |      |
 
 ## Stack
 | #    | Title                                                                 | Solution                                                                                    | Time | Space | Difficulty | Note |
