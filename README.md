@@ -66,6 +66,11 @@
 | ---- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------- | ----- | ---------- | ---- |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Search%20Insert%20Position.py) | O(logn) | O(1)  | Easy       |      |
 
+## Tree
+| #    | Title                                             | Solution                                                                          | Time | Space | Difficulty | Note |
+| ---- | ------------------------------------------------- | --------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Same%20Tree.py) | O(n) | O(h)  | Easy       |      |
+
 ## Hash Table
 | #    | Title                                             | Solution                                                                          | Time | Space | Difficulty | Note |
 | ---- | ------------------------------------------------- | --------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
