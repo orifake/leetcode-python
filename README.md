@@ -112,8 +112,9 @@
 | 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Binary%20Tree%20Level%20Order%20Traversal%20II.py) | O(n) | O(h)  | Easy       |      |
 
 ## Depth-First Search
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                               | Solution                                                                                                               | Time | Space | Difficulty | Note |
+| ---- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Binary%20Tree%20Level%20Order%20Traversal%20II.py) | O(n) | O(h)  | Easy       |      |
 
 ## Backtracking
 | #   | Title | Solution | Time | Space | Difficulty | Note |
