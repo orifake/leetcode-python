@@ -37,6 +37,7 @@
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Element.py)                            | O(n)   | O(1)  | Easy       | Two Pointer |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/submissions/)                                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Plus%20One.py)                                  | O(n)   | O(1)  | Easy       |             |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                      | [python](https://github.com/orifake/leetcode-python/blob/master/src/Pascal's%20Triangle.py)                         | O(n^2) | O(1)  | Easy       |             |
+| 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                | [python](https://github.com/orifake/leetcode-python/blob/master/src/Pascal's%20Triangle%20II.py)                    | O(n^2) | O(1)  | Easy       |             |
 
 ## String
 | #    | Title                                                                         | Solution                                                                                          | Time       | Space  | Difficulty | Note |
