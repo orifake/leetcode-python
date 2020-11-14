@@ -31,11 +31,12 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Array
-| #    | Title                                                                                                     | Solution                                                                                                            | Time | Space | Difficulty | Note        |
-| ---- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ----------- |
-| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Duplicates%20from%20Sorted%20Array.py) | O(n) | O(1)  | Easy       | Two Pointer |
-| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Element.py)                            | O(n) | O(1)  | Easy       | Two Pointer |
-| 0066 | [Plus One](https://leetcode.com/problems/plus-one/submissions/)                                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Plus%20One.py)                                  | O(n) | O(1)  | Easy       |             |
+| #    | Title                                                                                                     | Solution                                                                                                            | Time   | Space | Difficulty | Note        |
+| ---- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ---------- | ----------- |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Duplicates%20from%20Sorted%20Array.py) | O(n)   | O(1)  | Easy       | Two Pointer |
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Element.py)                            | O(n)   | O(1)  | Easy       | Two Pointer |
+| 0066 | [Plus One](https://leetcode.com/problems/plus-one/submissions/)                                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Plus%20One.py)                                  | O(n)   | O(1)  | Easy       |             |
+| 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                      | [python](https://github.com/orifake/leetcode-python/blob/master/src/Pascal's%20Triangle.py)                         | O(n^2) | O(1)  | Easy       |             |
 
 ## String
 | #    | Title                                                                         | Solution                                                                                          | Time       | Space  | Difficulty | Note |
