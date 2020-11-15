@@ -38,14 +38,15 @@
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/submissions/)                                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Plus%20One.py)                                  | O(n)   | O(1)  | Easy       |             |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                      | [python](https://github.com/orifake/leetcode-python/blob/master/src/Pascal's%20Triangle.py)                         | O(n^2) | O(1)  | Easy       |             |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                | [python](https://github.com/orifake/leetcode-python/blob/master/src/Pascal's%20Triangle%20II.py)                    | O(n^2) | O(1)  | Easy       |             |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Pascal's%20Triangle%20II.py)                    | O(n)   | O(1)  | Easy       |             |
 
 ## String
-| #    | Title                                                                         | Solution                                                                                          | Time       | Space  | Difficulty | Note |
-| ---- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- | ------ | ---------- | ---- |
-| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Common%20Prefix.py) | O(n*k)     | O(1)   | Easy       |      |
-| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20strStr.py)        | O(n+k)     | O(k)   | Easy       |      |
-| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Count%20and%20Say.py)         | O(n * 2^n) | O(2^n) | Easy       |      |
-| 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Length%20of%20Last%20Word.py) | O(n)       | O(1)   | Easy       |      |
+| #    | Title                                                                         | Solution                                                                                                            | Time       | Space  | Difficulty | Note |
+| ---- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ---------- | ---- |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Common%20Prefix.py)                   | O(n*k)     | O(1)   | Easy       |      |
+| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20strStr.py)                          | O(n+k)     | O(k)   | Easy       |      |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Count%20and%20Say.py)                           | O(n * 2^n) | O(2^n) | Easy       |      |
+| 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | O(n)       | O(1)   | Easy       |      |
 
 
 ## Linked List
@@ -130,8 +131,9 @@
 
 
 ## Greedy
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                                                                                   | Solution                                                                                                                 | Time | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---- | ----- | ---------- | ---- |
+| 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py) | O(n) | O(1)  | Easy       |      |
 
 ## Graph
 | #   | Title | Solution | Time | Space | Difficulty | Note |
