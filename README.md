@@ -27,8 +27,9 @@
 * [Concurrency](https://github.com/orifake/leetcode-rust#concurrency)
 
 ## Bit Manipulation
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                                          | Solution                                                                                | Time | Space | Difficulty | Note |
+| ---- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0136 | [Single Number	](https://leetcode.com/problems/single-number/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Single%20Number.py) | O(n) | O(1)  | Easy       |      |
 
 ## Array
 | #    | Title                                                                                                     | Solution                                                                                                            | Time   | Space | Difficulty | Note        |
@@ -92,8 +93,9 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Two Pointers
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                                                 | Solution                                                                                      | Time | Space | Difficulty | Note |
+| ---- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Linked%20List%20Cycle.py) | O(n) | O(1)  | Easy       |      |
 
 ## Recursion
 | #   | Title | Solution | Time | Space | Difficulty | Note |
