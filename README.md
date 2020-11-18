@@ -150,8 +150,9 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Design
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                                 | Solution                                                                            | Time | Space | Difficulty | Note |
+| ---- | ----------------------------------------------------- | ----------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Min%20Stack.py) | O(n) | O(1)  | Easy       |      |
 
 ## Concurrency
 | #   | Title | Solution | Time | Space | Difficulty | Note |
