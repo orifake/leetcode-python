@@ -3,13 +3,16 @@ from typing import List
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        h = {}
-        for i, num in enumerate(nums):
-            complement = target - num
-            if complement not in h:
-                h[num] = i
+        start, end = 0, len(nums) - 1
+
+        while start != end:
+            sum = nums[start] + nums[end]
+            if sum > target:
+                end -= 1
+            elif sum < target:
+                start += 1
             else:
-                return [h[complement] + 1, i + 1]
+                return [start + 1, end + 1]
 
 
 t = Solution()
