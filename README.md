@@ -40,6 +40,8 @@
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                      | [python](https://github.com/orifake/leetcode-python/blob/master/src/Pascal's%20Triangle.py)                         | O(n^2) | O(1)  | Easy       |             |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                | [python](https://github.com/orifake/leetcode-python/blob/master/src/Pascal's%20Triangle%20II.py)                    | O(n^2) | O(1)  | Easy       |             |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Pascal's%20Triangle%20II.py)                    | O(n)   | O(1)  | Easy       |             |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)                                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Majority%20Element.py)                          | O(n)   | O(1)  | Easy       |             |
+
 
 ## String
 | #    | Title                                                                         | Solution                                                                                                            | Time       | Space  | Difficulty | Note |
@@ -83,11 +85,12 @@
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum.py) | O(n) | O(n)  | Easy       |      |
 
 ## Math
-| #    | Title                                                                | Solution                                                                                     | Time | Space | Difficulty | Note |
-| ---- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
-| 0007 | [Reverse Integer](https://leetcode.com/problems/two-sum/)            | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Integer.py)    | O(1) | O(1)  | Easy       |      |
-| 0009 | [Palindrome Number](https://leetcode.com/problems/two-sum/)          | [python](https://github.com/orifake/leetcode-python/blob/master/src/Palindrome%20Number.py)  | O(1) | O(1)  | Easy       |      |
-| 0013 | [Palindrome Number](https://leetcode.com/problems/roman-to-integer/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Roman%20to%20Integer.py) | O(n) | O(1)  | Easy       |      |
+| #    | Title                                                                               | Solution                                                                                               | Time    | Space | Difficulty | Note |
+| ---- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------- | ----- | ---------- | ---- |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/two-sum/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Integer.py)              | O(1)    | O(1)  | Easy       |      |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/two-sum/)                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Palindrome%20Number.py)            | O(1)    | O(1)  | Easy       |      |
+| 0013 | [Palindrome Number](https://leetcode.com/problems/roman-to-integer/)                | [python](https://github.com/orifake/leetcode-python/blob/master/src/Roman%20to%20Integer.py)           | O(n)    | O(1)  | Easy       |      |
+| 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Excel%20Sheet%20Column%20Title.py) | O(logn) | O(1)  | Easy       |      |
 
 ## Sort
 | #   | Title | Solution | Time | Space | Difficulty | Note |
