@@ -51,10 +51,11 @@
 
 
 ## Linked List
-| #    | Title                                                                                                      | Solution                                                                                             | Time | Space | Difficulty | Note |
-| ---- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
-| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                            | [python](https://github.com/orifake/leetcode-python/blob/master/src/Merge%20Two%20Sorted%20Lists.py) | O(n) | O(1)  | Easy       |      |
-| 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/   ) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Merge%20Two%20Sorted%20Lists.py) | O(n) | O(1)  | Easy       |      |
+| #    | Title                                                                                                   | Solution                                                                                                         | Time   | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------ | ----- | ---------- | ---- |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Merge%20Two%20Sorted%20Lists.py)             | O(n)   | O(1)  | Easy       |      |
+| 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Merge%20Two%20Sorted%20Lists.py)             | O(n)   | O(1)  | Easy       |      |
+| 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Intersection%20of%20Two%20Linked%20Lists.py) | O(m+n) | O(1)  | Easy       |      |
 
 ## Stack
 | #    | Title                                                                 | Solution                                                                                    | Time | Space | Difficulty | Note |
@@ -93,9 +94,10 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Two Pointers
-| #    | Title                                                                 | Solution                                                                                      | Time | Space | Difficulty | Note |
-| ---- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
-| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Linked%20List%20Cycle.py) | O(n) | O(1)  | Easy       |      |
+| #    | Title                                                                                                 | Solution                                                                                                                 | Time | Space | Difficulty | Note |
+| ---- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---- | ----- | ---------- | ---- |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Linked%20List%20Cycle.py)                            | O(n) | O(1)  | Easy       |      |
+| 0141 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py) | O(n) | O(1)  | Easy       |      |
 
 ## Recursion
 | #   | Title | Solution | Time | Space | Difficulty | Note |
