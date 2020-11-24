@@ -27,9 +27,11 @@
 * [Concurrency](https://github.com/orifake/leetcode-rust#concurrency)
 
 ## Bit Manipulation
-| #    | Title                                                          | Solution                                                                                | Time | Space | Difficulty | Note |
-| ---- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
-| 0136 | [Single Number	](https://leetcode.com/problems/single-number/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Single%20Number.py) | O(n) | O(1)  | Easy       |      |
+| #    | Title                                                               | Solution                                                                                                                    | Time | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0136 | [Single Number	](https://leetcode.com/problems/single-number/)      | [python](https://github.com/orifake/leetcode-python/blob/master/src/Single%20Number.py)                                     | O(n) | O(1)  | Easy       |      |
+| 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Bits.py)                                      | O(1) | O(1)  | Easy       |      |
+| 019  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) | O(1) | O(1)  | Easy       |      |
 
 ## Array
 | #    | Title                                                                                                     | Solution                                                                                                            | Time   | Space | Difficulty | Note        |
