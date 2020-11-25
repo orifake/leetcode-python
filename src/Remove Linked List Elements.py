@@ -15,7 +15,7 @@ class Solution:
         while currentNode is not None:
             if currentNode.val == val:
                 preNode.next = currentNode.next
-                currentNode = preNode.next
+                currentNode = currentNode.next
             else:
                 preNode = preNode.next
                 currentNode = currentNode.next
