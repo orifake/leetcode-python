@@ -1,18 +1,16 @@
 class Solution:
-    def isIsomorphic(self, s: str, t: str) -> bool:
-        dictS = dict()
-        dictT = dict()
-        for i in range(0, len(s)):
-            curS = s[i]
-            curT = t[i]
-            if dictS.get(curS) is None:
-                dictS[curS] = curT
-            elif dictS.get(curS) != curT:
-                return False
+    def isIsomorphic(self, s, t):
+        if len(s) != len(t):
+            return False
 
-            if dictT.get(curT) is None:
-                dictT[curT] = curS
-            elif dictT.get(curT) != curS:
+        return self.halfIsom(s, t) and self.halfIsom(t, s)
+
+    def halfIsom(self, s, t):
+        lookup = {}
+        for i in range(len(s)):
+            if s[i] not in lookup:
+                lookup[s[i]] = t[i]
+            elif lookup[s[i]] != t[i]:
                 return False
         return True
 
