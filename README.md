@@ -60,6 +60,7 @@
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Merge%20Two%20Sorted%20Lists.py)             | O(n)   | O(1)  | Easy       |      |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Merge%20Two%20Sorted%20Lists.py)             | O(n)   | O(1)  | Easy       |      |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Intersection%20of%20Two%20Linked%20Lists.py) | O(m+n) | O(1)  | Easy       |      |
+| 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/)   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Linked%20List%20Elements.py)        | O(n)   | O(1)  | Easy       |      |
 
 ## Stack
 | #    | Title                                                                 | Solution                                                                                    | Time | Space | Difficulty | Note |
@@ -82,19 +83,22 @@
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Maximum%20Depth%20of%20Binary%20Tree.py) | O(n) | O(h)  | Easy       |      |
 
 ## Hash Table
-| #    | Title                                             | Solution                                                                          | Time | Space | Difficulty | Note |
-| ---- | ------------------------------------------------- | --------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum.py) | O(n) | O(n)  | Easy       |      |
+| #    | Title                                                                   | Solution                                                                                     | Time | Space | Difficulty | Note |
+| ---- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum.py)            | O(n) | O(n)  | Easy       |      |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Isomorphic%20Strings.py) | O(n) | O(n)  | Easy       |      |
 
 ## Math
-| #    | Title                                                                                 | Solution                                                                                                | Time    | Space | Difficulty | Note |
-| ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------- | ----- | ---------- | ---- |
-| 0007 | [Reverse Integer](https://leetcode.com/problems/two-sum/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Integer.py)               | O(1)    | O(1)  | Easy       |      |
-| 0009 | [Palindrome Number](https://leetcode.com/problems/two-sum/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Palindrome%20Number.py)             | O(1)    | O(1)  | Easy       |      |
-| 0013 | [Palindrome Number](https://leetcode.com/problems/roman-to-integer/)                  | [python](https://github.com/orifake/leetcode-python/blob/master/src/Roman%20to%20Integer.py)            | O(n)    | O(1)  | Easy       |      |
-| 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Excel%20Sheet%20Column%20Title.py)  | O(logn) | O(1)  | Easy       |      |
-| 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Excel%20Sheet%20Column%20Number.py) | O(n)    | O(1)  | Easy       |      |
-| 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Factorial%20Trailing%20Zeroes.py)   | O(1)    | O(1)  | Easy       |      |
+| #    | Title                                                                                 | Solution                                                                                                | Time          | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------- | ----- | ---------- | ---- |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/two-sum/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Integer.py)               | O(1)          | O(1)  | Easy       |      |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/two-sum/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Palindrome%20Number.py)             | O(1)          | O(1)  | Easy       |      |
+| 0013 | [Palindrome Number](https://leetcode.com/problems/roman-to-integer/)                  | [python](https://github.com/orifake/leetcode-python/blob/master/src/Roman%20to%20Integer.py)            | O(n)          | O(1)  | Easy       |      |
+| 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Excel%20Sheet%20Column%20Title.py)  | O(logn)       | O(1)  | Easy       |      |
+| 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Excel%20Sheet%20Column%20Number.py) | O(n)          | O(1)  | Easy       |      |
+| 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Factorial%20Trailing%20Zeroes.py)   | O(1)          | O(1)  | Easy       |      |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Happy%20Number.py)                  | O(k)          | O(1)  | Easy       |      |
+| 0204 | [Count Primes](https://leetcode.com/problems/count-primes/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Count%20Primes.py)                  | O(nlog(logn)) | O(n)  | Easy       |      |
 
 ## Sort
 | #   | Title | Solution | Time | Space | Difficulty | Note |
