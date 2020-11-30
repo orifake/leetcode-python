@@ -60,7 +60,8 @@
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Merge%20Two%20Sorted%20Lists.py)             | O(n)   | O(1)  | Easy       |      |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Merge%20Two%20Sorted%20Lists.py)             | O(n)   | O(1)  | Easy       |      |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Intersection%20of%20Two%20Linked%20Lists.py) | O(m+n) | O(1)  | Easy       |      |
-| 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/)   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Linked%20List%20Elements.py)        | O(n)   | O(1)  | Easy       |      |
+| 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Linked%20List%20Elements.py)        | O(n)   | O(1)  | Easy       |      |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Linked%20List.py)                  | O(n)   | O(1)  | Easy       |      |
 
 ## Stack
 | #    | Title                                                                 | Solution                                                                                    | Time | Space | Difficulty | Note |
@@ -83,10 +84,12 @@
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Maximum%20Depth%20of%20Binary%20Tree.py) | O(n) | O(h)  | Easy       |      |
 
 ## Hash Table
-| #    | Title                                                                   | Solution                                                                                     | Time | Space | Difficulty | Note |
-| ---- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum.py)            | O(n) | O(n)  | Easy       |      |
-| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Isomorphic%20Strings.py) | O(n) | O(n)  | Easy       |      |
+| #    | Title                                                                         | Solution                                                                                          | Time | Space | Difficulty | Note |
+| ---- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum.py)                 | O(n) | O(n)  | Easy       |      |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Isomorphic%20Strings.py)      | O(n) | O(n)  | Easy       |      |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate.py)      | O(n) | O(n)  | Easy       |      |
+| 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate%20II.py) | O(n) | O(n)  | Easy       |      |
 
 ## Math
 | #    | Title                                                                                 | Solution                                                                                                | Time          | Space | Difficulty | Note |
