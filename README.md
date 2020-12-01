@@ -85,12 +85,14 @@
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Maximum%20Depth%20of%20Binary%20Tree.py) | O(n) | O(h)  | Easy       |      |
 
 ## Hash Table
-| #    | Title                                                                         | Solution                                                                                          | Time | Space | Difficulty | Note |
-| ---- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum.py)                 | O(n) | O(n)  | Easy       |      |
-| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Isomorphic%20Strings.py)      | O(n) | O(n)  | Easy       |      |
-| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate.py)      | O(n) | O(n)  | Easy       |      |
-| 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate%20II.py) | O(n) | O(n)  | Easy       |      |
+| #    | Title                                                                         | Solution                                                                                          | Time | Space      | Difficulty | Note |
+| ---- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---- | ---------- | ---------- | ---- |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum.py)                 | O(n) | O(n)       | Easy       |      |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Isomorphic%20Strings.py)      | O(n) | O(n)       | Easy       |      |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate.py)      | O(n) | O(n)       | Easy       |      |
+| 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate%20II.py) | O(n) | O(n)       | Easy       |      |
+| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Invert%20Binary%20Tree.py)    | O(n) | O(h), O(w) | Easy       |      |
+
 
 ## Math
 | #    | Title                                                                                 | Solution                                                                                                | Time          | Space | Difficulty | Note |
@@ -103,6 +105,7 @@
 | 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Factorial%20Trailing%20Zeroes.py)   | O(1)          | O(1)  | Easy       |      |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Happy%20Number.py)                  | O(k)          | O(1)  | Easy       |      |
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Count%20Primes.py)                  | O(nlog(logn)) | O(n)  | Easy       |      |
+| 0223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Rectangle%20Area.py)                | O(nlog(1))    | O(1)  | Easy       |      |
 
 ## Sort
 | #   | Title | Solution | Time | Space | Difficulty | Note |
@@ -168,9 +171,10 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Design
-| #    | Title                                                 | Solution                                                                            | Time | Space | Difficulty | Note |
-| ---- | ----------------------------------------------------- | ----------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
-| 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Min%20Stack.py) | O(n) | O(1)  | Easy       |      |
+| #    | Title                                                                                       | Solution                                                                                                   | Time                             | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------- | ----- | ---------- | ---- |
+| 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Min%20Stack.py)                        | O(n)                             | O(1)  | Easy       |      |
+| 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20Stack%20using%20Queues.py) | push: O(n), pop: O(1), top: O(1) | O(n)  | Easy       |      |
 
 ## Concurrency
 | #   | Title | Solution | Time | Space | Difficulty | Note |
