@@ -31,7 +31,8 @@
 | ---- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
 | 0136 | [Single Number	](https://leetcode.com/problems/single-number/)      | [python](https://github.com/orifake/leetcode-python/blob/master/src/Single%20Number.py)                                     | O(n) | O(1)  | Easy       |      |
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Bits.py)                                      | O(1) | O(1)  | Easy       |      |
-| 019  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) | O(1) | O(1)  | Easy       |      |
+| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) | O(1) | O(1)  | Easy       |      |
+| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Power%20of%20Two.py)                                    | O(1) | O(1)  | Easy       |      |
 
 ## Array
 | #    | Title                                                                                                     | Solution                                                                                                            | Time   | Space | Difficulty | Note        |
@@ -63,6 +64,7 @@
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Intersection%20of%20Two%20Linked%20Lists.py) | O(m+n) | O(1)  | Easy       |      |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Remove%20Linked%20List%20Elements.py)        | O(n)   | O(1)  | Easy       |      |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Linked%20List.py)                  | O(n)   | O(1)  | Easy       |      |
+| 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Palindrome%20Linked%20List.py)               | O(n)   | O(1)  | Easy       |      |
 
 ## Stack
 | #    | Title                                                                 | Solution                                                                                    | Time | Space | Difficulty | Note |
@@ -175,6 +177,7 @@
 | ---- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------- | ----- | ---------- | ---- |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Min%20Stack.py)                        | O(n)                             | O(1)  | Easy       |      |
 | 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20Stack%20using%20Queues.py) | push: O(n), pop: O(1), top: O(1) | O(n)  | Easy       |      |
+| 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20Queue%20using%20Stacks.py) | O(1)                             | O(n)  | Easy       |      |
 
 ## Concurrency
 | #   | Title | Solution | Time | Space | Difficulty | Note |
