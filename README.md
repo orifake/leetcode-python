@@ -87,13 +87,14 @@
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Maximum%20Depth%20of%20Binary%20Tree.py) | O(n) | O(h)  | Easy       |      |
 
 ## Hash Table
-| #    | Title                                                                         | Solution                                                                                          | Time | Space      | Difficulty | Note |
-| ---- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---- | ---------- | ---------- | ---- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum.py)                 | O(n) | O(n)       | Easy       |      |
-| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Isomorphic%20Strings.py)      | O(n) | O(n)       | Easy       |      |
-| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate.py)      | O(n) | O(n)       | Easy       |      |
-| 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate%20II.py) | O(n) | O(n)       | Easy       |      |
-| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Invert%20Binary%20Tree.py)    | O(n) | O(h), O(w) | Easy       |      |
+| #    | Title                                                                                                                           | Solution                                                                                                                       | Time | Space      | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---- | ---------- | ---------- | ---- |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum.py)                                              | O(n) | O(1)       | Easy       |      |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Substring%20Without%20Repeating%20Characters.py) | O(n) | O(1)       | Easy       |      |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Isomorphic%20Strings.py)                                   | O(n) | O(n)       | Easy       |      |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate.py)                                   | O(n) | O(n)       | Easy       |      |
+| 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate%20II.py)                              | O(n) | O(n)       | Easy       |      |
+| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Invert%20Binary%20Tree.py)                                 | O(n) | O(h), O(w) | Easy       |      |
 
 
 ## Math
@@ -130,8 +131,9 @@
 
 
 ## Binary Search Tree
-| #   | Title | Solution | Time | Space | Difficulty | Note |
-| --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+| #    | Title                                                                                                                           | Solution                                                                                                                             | Time | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---- | ----- | ---------- | ---- |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.py) | O(h) | O(1)  | Easy       |      |
 
 ## Breadth-First Search
 | #    | Title                                                                                                       | Solution                                                                                                               | Time | Space | Difficulty | Note |
