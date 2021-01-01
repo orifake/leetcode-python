@@ -13,14 +13,14 @@ class Solution:
         self.dfs(root, path, result)
         return result
 
-    def dfs(self, root: TreeNode, path:List, result:List):
-        if not root:
+    def dfs(self, node: TreeNode, path: List, result: List):
+        if not node:
             return
-        path.append(str(root.val))
-        if not root.left and not root.right:
+        path.append(str(node.val))
+        if not node.left and not node.right:
             result.append('->'.join(path))
-        if root.left:
-            self.dfs(root.left, path, result)
-        if root.right:
-            self.dfs(root.right, path, result)
+        if node.left:
+            self.dfs(node.left, path, result)
+        if node.right:
+            self.dfs(node.right, path, result)
         path.pop()
