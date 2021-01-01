@@ -111,6 +111,7 @@
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Happy%20Number.py)                  | O(k)          | O(1)  | Easy       |      |
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Count%20Primes.py)                  | O(nlog(logn)) | O(n)  | Easy       |      |
 | 0223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Rectangle%20Area.py)                | O(nlog(1))    | O(1)  | Easy       |      |
+| 0258 | [Add Digits](https://leetcode.com/problems/add-digits/)                               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Add%20Digits.py)                    | O(1)          | O(1)  | Easy       |      |
 
 ## Sort
 | #   | Title | Solution | Time | Space | Difficulty | Note |
@@ -146,7 +147,7 @@
 | #    | Title                                                                 | Solution                                                                                                               | Time   | Space | Difficulty | Note |
 | ---- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ---------- | ---- |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum/)                   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Binary%20Tree%20Level%20Order%20Traversal%20II.py) | O(n)   | O(h)  | Easy       |      |
-| 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Binary%20Tree%20Paths.py) | O(n*h) | O(h)  | Easy       |      |
+| 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Binary%20Tree%20Paths.py)                          | O(n*h) | O(h)  | Easy       |      |
 
 ## Backtracking
 | #   | Title | Solution | Time | Space | Difficulty | Note |
