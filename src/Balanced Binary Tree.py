@@ -14,7 +14,7 @@ class Solution:
         else:
             return False
 
-    def depth(self, root):
-        if root == None:
+    def depth(self, node):
+        if node == None:
             return 0
-        return max(self.depth(root.left), self.depth(root.right)) + 1
+        return max(self.depth(node.left), self.depth(node.right)) + 1

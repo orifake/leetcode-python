@@ -10,11 +10,11 @@ class Solution:
         self.order(root, result, 0)
         return result[::-1]
 
-    def order(self, root, result, level):
-        if not root:
+    def order(self, node, result, level):
+        if not node:
             return
         if level >= len(result):
             result.append([])
-        result[level].append(root.val)
-        self.order(root.left, result, level + 1)
-        self.order(root.right, result, level + 1)
+        result[level].append(node.val)
+        self.order(node.left, result, level + 1)
+        self.order(node.right, result, level + 1)
