@@ -9,9 +9,9 @@ class Solution:
         :type n: int
         :rtype: int
         """
-        lo,hi = 1,n
+        lo, hi = 1, n
         while lo < hi:
-            mid = int((lo + hi)/2)
+            mid = int((lo + hi) / 2)
             res = isBadVersion(mid)
             if res:
                 hi = mid

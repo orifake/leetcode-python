@@ -130,9 +130,10 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Binary Search
-| #    | Title                                           | Solution                                                                        | Time    | Space | Difficulty | Note |
-| ---- | ----------------------------------------------- | ------------------------------------------------------------------------------- | ------- | ----- | ---------- | ---- |
-| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sqrt(x).py) | O(logn) | O(1)  | Easy       |      |
+| #    | Title                                                                 | Solution                                                                                      | Time    | Space | Difficulty | Note |
+| ---- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------- | ----- | ---------- | ---- |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sqrt(x).py)               | O(logn) | O(1)  | Easy       |      |
+| 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/First%20Bad%20Version.py) | O(logn) | O(1)  | Easy       |      |
 
 
 ## Binary Search Tree
