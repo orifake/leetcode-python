@@ -124,6 +124,7 @@
 | ---- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---- | ----- | ---------- | ---- |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Linked%20List%20Cycle.py)                            | O(n) | O(1)  | Easy       |      |
 | 0141 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py) | O(n) | O(1)  | Easy       |      |
+| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Move%20Zeroes.py)                                    | O(n) | O(1)  | Easy       |      |
 
 ## Recursion
 | #   | Title | Solution | Time | Space | Difficulty | Note |

@@ -6,11 +6,11 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        for i in range(0, len(nums)):
-            index = len(nums) - 1 - i
-            if nums[index] == 0:
-                nums.append(0)
-                nums.pop(index)
+        pos = 0
+        for i in range(len(nums)):
+            if nums[i]:
+                nums[i], nums[pos] = nums[pos], nums[i]
+                pos += 1
 
 
 t = Solution()
