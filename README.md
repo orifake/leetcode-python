@@ -113,6 +113,7 @@
 | 0223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Rectangle%20Area.py)                | O(nlog(1))    | O(1)  | Easy       |      |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits/)                               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Add%20Digits.py)                    | O(1)          | O(1)  | Easy       |      |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Ugly%20Number.py)                   | O(1)          | O(1)  | Easy       |      |
+| 0268 | [Missing Number](https://leetcode.com/problems/missing-number/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Missing%20Number.py)                | O(n)          | O(1)  | Easy       |      |
 
 ## Sort
 | #   | Title | Solution | Time | Space | Difficulty | Note |
