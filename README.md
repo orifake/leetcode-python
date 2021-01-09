@@ -33,6 +33,7 @@
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Bits.py)                                      | O(1) | O(1)  | Easy       |      |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) | O(1) | O(1)  | Easy       |      |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Power%20of%20Two.py)                                    | O(1) | O(1)  | Easy       |      |
+| 0231 | [Power of Four](https://leetcode.com/problems/power-of-four/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Power%20of%20Four.py)                                   | O(1) | O(1)  | Easy       |      |
 
 ## Array
 | #    | Title                                                                                                     | Solution                                                                                                            | Time   | Space | Difficulty | Note        |
@@ -97,6 +98,8 @@
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate.py)                                   | O(n) | O(n)  | Easy       |      |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Contains%20Duplicate%20II.py)                              | O(n) | O(n)  | Easy       |      |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Valid%20Anagram.py)                                        | O(n) | O(1)  | Easy       |      |
+| 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Word%20Pattern.py)                                         | O(n) | O(1)  | Easy       |      |
+| 0299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                                                                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Bulls%20and%20Cows.py)                                     | O(n) | O(1)  | Easy       |      |
 
 
 ## Math
@@ -114,6 +117,9 @@
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits/)                               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Add%20Digits.py)                    | O(1)          | O(1)  | Easy       |      |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Ugly%20Number.py)                   | O(1)          | O(1)  | Easy       |      |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Missing%20Number.py)                | O(n)          | O(1)  | Easy       |      |
+| 0292 | [Nim Game](https://leetcode.com/problems/nim-game/)                                   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Nim%20Game.py)                      | O(1)          | O(1)  | Easy       |      |
+| 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Power%20of%20Three.py)              | O(1)          | O(1)  | Easy       |      |
+
 
 ## Sort
 | #   | Title | Solution | Time | Space | Difficulty | Note |
@@ -158,11 +164,12 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Dynamic Programming
-| #    | Title                                                               | Solution                                                                                   | Time | Space | Difficulty | Note |
-| ---- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---- | ----- | ---------- | ---- |
-| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Maximum%20Subarray.py) | O(n) | O(1)  | Easy       |      |
-| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Climbing%20Stairs.py)  | O(n) | O(1)  | Easy       |      |
-| 0198 | [House Robber](https://leetcode.com/problems/house-robber/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/House%20Robber.py)     | O(n) | O(1)  | Easy       |      |
+| #    | Title                                                                                   | Solution                                                                                                    | Time                     | Space | Difficulty | Note |
+| ---- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------ | ----- | ---------- | ---- |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Maximum%20Subarray.py)                  | O(n)                     | O(1)  | Easy       |      |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Climbing%20Stairs.py)                   | O(n)                     | O(1)  | Easy       |      |
+| 0198 | [House Robber](https://leetcode.com/problems/house-robber/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/House%20Robber.py)                      | O(n)                     | O(1)  | Easy       |      |
+| 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Range%20Sum%20Query%20-%20Immutable.py) | ctor: O(n), lookup: O(1) | O(n)  | Easy       |      |
 
 
 ## Greedy
