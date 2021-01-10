@@ -27,13 +27,14 @@
 * [Concurrency](https://github.com/orifake/leetcode-rust#concurrency)
 
 ## Bit Manipulation
-| #    | Title                                                               | Solution                                                                                                                    | Time | Space | Difficulty | Note |
-| ---- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
-| 0136 | [Single Number	](https://leetcode.com/problems/single-number/)      | [python](https://github.com/orifake/leetcode-python/blob/master/src/Single%20Number.py)                                     | O(n) | O(1)  | Easy       |      |
-| 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Bits.py)                                      | O(1) | O(1)  | Easy       |      |
-| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) | O(1) | O(1)  | Easy       |      |
-| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Power%20of%20Two.py)                                    | O(1) | O(1)  | Easy       |      |
-| 0231 | [Power of Four](https://leetcode.com/problems/power-of-four/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Power%20of%20Four.py)                                   | O(1) | O(1)  | Easy       |      |
+| #    | Title                                                                     | Solution                                                                                                                    | Time | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0136 | [Single Number	](https://leetcode.com/problems/single-number/)            | [python](https://github.com/orifake/leetcode-python/blob/master/src/Single%20Number.py)                                     | O(n) | O(1)  | Easy       |      |
+| 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Bits.py)                                      | O(1) | O(1)  | Easy       |      |
+| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py) | O(1) | O(1)  | Easy       |      |
+| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Power%20of%20Two.py)                                    | O(1) | O(1)  | Easy       |      |
+| 0231 | [Power of Four](https://leetcode.com/problems/power-of-four/)             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Power%20of%20Four.py)                                   | O(1) | O(1)  | Easy       |      |
+| 0371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sum%20of%20Two%20Integers.py)                           | O(1) | O(1)  | Easy       |      |
 
 ## Array
 | #    | Title                                                                                                     | Solution                                                                                                            | Time   | Space | Difficulty | Note        |
@@ -141,11 +142,12 @@
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
 
 ## Binary Search
-| #    | Title                                                                 | Solution                                                                                      | Time    | Space | Difficulty | Note |
-| ---- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------- | ----- | ---------- | ---- |
-| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sqrt(x).py)               | O(logn) | O(1)  | Easy       |      |
-| 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/First%20Bad%20Version.py) | O(logn) | O(1)  | Easy       |      |
-
+| #    | Title                                                                                       | Solution                                                                                                     | Time    | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------- | ----- | ---------- | ---- |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sqrt(x).py)                              | O(logn) | O(1)  | Easy       |      |
+| 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/First%20Bad%20Version.py)                | O(logn) | O(1)  | Easy       |      |
+| 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Valid%20Perfect%20Square.py)             | O(logn) | O(1)  | Easy       |      |
+| 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Guess%20Number%20Higher%20or%20Lower.py) | O(logn) | O(1)  | Easy       |      |
 
 ## Binary Search Tree
 | #    | Title                                                                                                                           | Solution                                                                                                                             | Time | Space | Difficulty | Note |
