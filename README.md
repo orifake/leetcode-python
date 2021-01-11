@@ -55,6 +55,7 @@
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20strStr.py)                          | O(n+k)     | O(k)   | Easy       |      |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Count%20and%20Say.py)                           | O(n * 2^n) | O(2^n) | Easy       |      |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | O(n)       | O(1)   | Easy       |      |
+| 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Ransom%20Note.py)                               | O(n)       | O(1)   | Easy       |      |
 
 
 ## Linked List
@@ -101,6 +102,8 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Valid%20Anagram.py)                                        | O(n) | O(1)  | Easy       |      |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Word%20Pattern.py)                                         | O(n) | O(1)  | Easy       |      |
 | 0299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                                                                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Bulls%20and%20Cows.py)                                     | O(n) | O(1)  | Easy       |      |
+| 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/First%20Unique%20Character%20in%20a%20String.py)           | O(n) | O(n)  | Easy       |      |
+
 
 
 ## Math
