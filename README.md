@@ -49,7 +49,8 @@
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                | [python](https://github.com/orifake/leetcode-python/blob/master/src/Pascal's%20Triangle%20II.py)                    | O(n^2) | O(1)  | Easy       |             |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Pascal's%20Triangle%20II.py)                    | O(n)   | O(1)  | Easy       |             |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)                                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Majority%20Element.py)                          | O(n)   | O(1)  | Easy       |             |
-
+| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Fizz%20Buzz.py)                                 | O(n)   | O(1)  | Easy       |             |
+| 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Third%20Maximum%20Number.py)                    | O(n)   | O(1)  | Easy       |             |
 
 ## String
 | #    | Title                                                                         | Solution                                                                                                            | Time       | Space  | Difficulty | Note |
@@ -109,6 +110,7 @@
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Word%20Pattern.py)                                         | O(n) | O(1)  | Easy       |      |
 | 0299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                                                                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Bulls%20and%20Cows.py)                                     | O(n) | O(1)  | Easy       |      |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/First%20Unique%20Character%20in%20a%20String.py)           | O(n) | O(n)  | Easy       |      |
+| 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Palindrome.py)                                   | O(n) | O(1)  | Easy       |      |
 
 
 
