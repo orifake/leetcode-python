@@ -1,4 +1,13 @@
+from functools import reduce
+import operator
+
+
 class Solution:
+    def findTheDifference(self, s: str, t: str) -> str:
+        return chr(reduce(operator.xor, map(ord, s + t)))
+
+
+class Solution2:
     def findTheDifference(self, s: str, t: str) -> str:
         dict1 = {}
         for i in range(len(s)):

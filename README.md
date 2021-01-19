@@ -35,6 +35,7 @@
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Power%20of%20Two.py)                                    | O(1) | O(1)  | Easy       |      |
 | 0231 | [Power of Four](https://leetcode.com/problems/power-of-four/)             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Power%20of%20Four.py)                                   | O(1) | O(1)  | Easy       |      |
 | 0371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sum%20of%20Two%20Integers.py)                           | O(1) | O(1)  | Easy       |      |
+| 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Find%20the%20Difference.py)                             | O(n) | O(1)  | Easy       |      |
 
 ## Array
 | #    | Title                                                                                                     | Solution                                                                                                            | Time   | Space | Difficulty | Note        |
