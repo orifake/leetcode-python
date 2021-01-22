@@ -38,6 +38,8 @@
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Find%20the%20Difference.py)                             | O(n) | O(1)  | Easy       |      |
 | 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch/)                                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Binary%20Watch.py)                                      | O(1) | O(1)  | Easy       |      |
 | 0405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Convert%20a%20Number%20to%20Hexadecimal.py)             | O(n) | O(1)  | Easy       |      |
+| 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Hamming%20Distance.py)                                  | O(1) | O(1)  | Easy       |      |
+| 0476 | [Number Complement](https://leetcode.com/problems/number-complement/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Number%20Complement.py)                                 | O(1) | O(1)  | Easy       |      |
 
 ## Array
 | #    | Title                                                                                                               | Solution                                                                                                                     | Time   | Space | Difficulty | Note        |
@@ -115,6 +117,7 @@
 | 0299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                                                                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Bulls%20and%20Cows.py)                                     | O(n) | O(1)  | Easy       |      |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/First%20Unique%20Character%20in%20a%20String.py)           | O(n) | O(n)  | Easy       |      |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Palindrome.py)                                   | O(n) | O(1)  | Easy       |      |
+| 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Island%20Perimeter.py)                                     | O(n) | O(1)  | Easy       |      |
 
 
 
