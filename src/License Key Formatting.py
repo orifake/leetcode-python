@@ -1,15 +1,13 @@
 class Solution:
     def licenseKeyFormatting(self, S: str, K: int) -> str:
-        s = S.upper().replace('-', '')
-        first = len(s) % K
-        ans = []
-        if first > 0:
-            ans.append(s[:first])
-        i = first
-        while i < len(s):
-            ans.append(s[i:i + K])
-            i += K
-        return '-'.join(ans)
+        result = []
+        for i in reversed(range(len(S))):
+            if S[i] == '-':
+                continue
+            if len(result) % (K + 1) == K:
+                result += '-'
+            result += S[i].upper()
+        return "".join(reversed(result))
 
 
 t = Solution()

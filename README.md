@@ -1,30 +1,30 @@
 ## Algorithms
 
-* [Bit Manipulation](https://github.com/orifake/leetcode-rust#bit-manipulation)
-* [Array](https://github.com/orifake/leetcode-rust#array)
-* [String](https://github.com/orifake/leetcode-rust#string)
-* [Linked List](https://github.com/orifake/leetcode-rust#linked-list)
-* [Stack](https://github.com/orifake/leetcode-rust#stack)
-* [Queue](https://github.com/orifake/leetcode-rust#queue)
-* [Binary Heap](https://github.com/orifake/leetcode-rust#binary-heap)
-* [Tree](https://github.com/orifake/leetcode-rust#tree)
-* [Hash Table](https://github.com/orifake/leetcode-rust#hash-table)
-* [Math](https://github.com/orifake/leetcode-rust#math)
-* [Two Pointers](https://github.com/orifake/leetcode-rust#two-pointers)
-* [Sort](https://github.com/orifake/leetcode-rust#sort)
-* [Recursion](https://github.com/orifake/leetcode-rust#recursion)
-* [Binary Search](https://github.com/orifake/leetcode-rust#binary-search)
-* [Binary Search Tree](https://github.com/orifake/leetcode-rust#binary-search-tree)
-* [Breadth-First Search](https://github.com/orifake/leetcode-rust#breadth-first-search)
-* [Depth-First Search](https://github.com/orifake/leetcode-rust#depth-first-search)
-* [Backtracking](https://github.com/orifake/leetcode-rust#backtracking)
-* [Dynamic Programming](https://github.com/orifake/leetcode-rust#dynamic-programming)
-* [Greedy](https://github.com/orifake/leetcode-rust#greedy)
-* [Graph](https://github.com/orifake/leetcode-rust#graph)
-* [Geometry](https://github.com/orifake/leetcode-rust#geometry)
-* [Simulation](https://github.com/orifake/leetcode-rust#simulation)
-* [Design](https://github.com/orifake/leetcode-rust#design)
-* [Concurrency](https://github.com/orifake/leetcode-rust#concurrency)
+* [Bit Manipulation](https://github.com/orifake/leetcode-python#bit-manipulation)
+* [Array](https://github.com/orifake/leetcode-python#array)
+* [String](https://github.com/orifake/leetcode-python#string)
+* [Linked List](https://github.com/orifake/leetcode-python#linked-list)
+* [Stack](https://github.com/orifake/leetcode-python#stack)
+* [Queue](https://github.com/orifake/leetcode-python#queue)
+* [Binary Heap](https://github.com/orifake/leetcode-python#binary-heap)
+* [Tree](https://github.com/orifake/leetcode-python#tree)
+* [Hash Table](https://github.com/orifake/leetcode-python#hash-table)
+* [Math](https://github.com/orifake/leetcode-python#math)
+* [Two Pointers](https://github.com/orifake/leetcode-python#two-pointers)
+* [Sort](https://github.com/orifake/leetcode-python#sort)
+* [Recursion](https://github.com/orifake/leetcode-python#recursion)
+* [Binary Search](https://github.com/orifake/leetcode-python#binary-search)
+* [Binary Search Tree](https://github.com/orifake/leetcode-python#binary-search-tree)
+* [Breadth-First Search](https://github.com/orifake/leetcode-python#breadth-first-search)
+* [Depth-First Search](https://github.com/orifake/leetcode-python#depth-first-search)
+* [Backtracking](https://github.com/orifake/leetcode-python#backtracking)
+* [Dynamic Programming](https://github.com/orifake/leetcode-python#dynamic-programming)
+* [Greedy](https://github.com/orifake/leetcode-python#greedy)
+* [Graph](https://github.com/orifake/leetcode-python#graph)
+* [Geometry](https://github.com/orifake/leetcode-python#geometry)
+* [Simulation](https://github.com/orifake/leetcode-python#simulation)
+* [Design](https://github.com/orifake/leetcode-python#design)
+* [Concurrency](https://github.com/orifake/leetcode-python#concurrency)
 
 ## Bit Manipulation
 | #    | Title                                                                                             | Solution                                                                                                                    | Time | Space | Difficulty | Note |
@@ -56,16 +56,17 @@
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) | O(n)   | O(1)  | Easy       |             |
 
 ## String
-| #    | Title                                                                                           | Solution                                                                                                            | Time       | Space   | Difficulty | Note          |
-| ---- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | ---------- | ------------- |
-| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Common%20Prefix.py)                   | O(n*k)     | O(1)    | Easy       |               |
-| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20strStr.py)                          | O(n+k)     | O(k)    | Easy       |               |
-| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Count%20and%20Say.py)                           | O(n * 2^n) | O(2^n)  | Easy       |               |
-| 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | O(n)       | O(1)    | Easy       |               |
-| 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Ransom%20Note.py)                               | O(n)       | O(1)    | Easy       |               |
-| 0415 | [Add Strings](https://leetcode.com/problems/add-strings/)                                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Add%20Strings.py)                               | O(n)       | O(1)    | Easy       |               |
-| 0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Add%20Strings.py)                               | O(n)       | O(1)    | Easy       |               |
-| 0459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Repeated%20Substring%20Pattern.py)              | O(n)       | O(n   ) | Easy       | KMP Algorithm |
+| #    | Title                                                                                           | Solution                                                                                                            | Time       | Space  | Difficulty | Note          |
+| ---- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ---------- | ------------- |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Common%20Prefix.py)                   | O(n*k)     | O(1)   | Easy       |               |
+| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Implement%20strStr.py)                          | O(n+k)     | O(k)   | Easy       |               |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Count%20and%20Say.py)                           | O(n * 2^n) | O(2^n) | Easy       |               |
+| 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | O(n)       | O(1)   | Easy       |               |
+| 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Ransom%20Note.py)                               | O(n)       | O(1)   | Easy       |               |
+| 0415 | [Add Strings](https://leetcode.com/problems/add-strings/)                                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Add%20Strings.py)                               | O(n)       | O(1)   | Easy       |               |
+| 0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Add%20Strings.py)                               | O(n)       | O(1)   | Easy       |               |
+| 0459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Repeated%20Substring%20Pattern.py)              | O(n)       | O(n)   | Easy       | KMP Algorithm |
+| 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/License%20Key%20Formatting.py)                  | O(n)       | O(1)   | Easy       |               |
 |      |
 
 ## Linked List
