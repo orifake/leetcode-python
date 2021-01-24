@@ -82,9 +82,10 @@
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Delete%20Node%20in%20a%20Linked%20List.py)   | O(1)   | O(1)  | Easy       |      |
 
 ## Stack
-| #    | Title                                                                 | Solution                                                                                    | Time | Space | Difficulty | Note |
-| ---- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
-| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Valid%20Parentheses.py) | O(n) | O(1)  | Easy       |      |
+| #    | Title                                                                           | Solution                                                                                             | Time | Space | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---- | ----- | ---------- | ---- |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Valid%20Parentheses.py)          | O(n) | O(1)  | Easy       |      |
+| 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Next%20Greater%20Element%20I.py) | O(n) | O(n)  | Easy       |      |
 
 ## Queue
 | #   | Title | Solution | Time | Space | Difficulty | Note |
@@ -119,7 +120,7 @@
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/First%20Unique%20Character%20in%20a%20String.py)           | O(n) | O(n)  | Easy       |      |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)                                                         | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Palindrome.py)                                   | O(n) | O(1)  | Easy       |      |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Island%20Perimeter.py)                                     | O(n) | O(1)  | Easy       |      |
-
+| 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)                                                                     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Keyboard%20Row.py)                                         | O(n) | O(1)  | Easy       |      |
 
 
 ## Math
@@ -141,6 +142,7 @@
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/)                                               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Power%20of%20Three.py)                              | O(1)          | O(1)  | Easy       |               |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Arranging%20Coins.py)                               | O(nlogn)	)    | O(1)  | Easy       | Binary Search |
 | 0453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Minimum%20Moves%20to%20Equal%20Array%20Elements.py) | O(n)	)        | O(1)  | Easy       |               |
+| 0492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Construct%20the%20Rectangle.py)                     | O(n)	)        | O(1)  | Easy       |               |
 
 
 ## Sort
