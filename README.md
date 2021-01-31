@@ -40,6 +40,7 @@
 | 0405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Convert%20a%20Number%20to%20Hexadecimal.py)             | O(n) | O(1)  | Easy       |      |
 | 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Hamming%20Distance.py)                                  | O(1) | O(1)  | Easy       |      |
 | 0476 | [Number Complement](https://leetcode.com/problems/number-complement/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Number%20Complement.py)                                 | O(1) | O(1)  | Easy       |      |
+| 0504 | [Base 7](https://leetcode.com/problems/base-7/)                                                   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Base%207.py)                                            | O(1) | O(1)  | Easy       |      |
 
 ## Array
 | #    | Title                                                                                                               | Solution                                                                                                                     | Time   | Space | Difficulty | Note        |
@@ -97,12 +98,13 @@
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Search%20Insert%20Position.py) | O(logn) | O(1)  | Easy       |      |
 
 ## Tree
-| #    | Title                                                                                       | Solution                                                                                                     | Time | Space      | Difficulty | Note |
-| ---- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---- | ---------- | ---------- | ---- |
-| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/)                                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Same%20Tree.py)                          | O(n) | O(h)       | Easy       |      |
-| 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Maximum%20Depth%20of%20Binary%20Tree.py) | O(n) | O(h)       | Easy       |      |
-| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Invert%20Binary%20Tree.py)               | O(n) | O(h), O(w) | Easy       |      |
-| 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sum%20of%20Left%20Leaves.py)             | O(n) | O(h)       | Easy       |      |
+| #    | Title                                                                                             | Solution                                                                                                          | Time | Space      | Difficulty | Note |
+| ---- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---- | ---------- | ---------- | ---- |
+| 0100 | [Same Tree](https://leetcode.com/problems/same-tree/)                                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Same%20Tree.py)                               | O(n) | O(h)       | Easy       |      |
+| 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Maximum%20Depth%20of%20Binary%20Tree.py)      | O(n) | O(h)       | Easy       |      |
+| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Invert%20Binary%20Tree.py)                    | O(n) | O(h), O(w) | Easy       |      |
+| 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sum%20of%20Left%20Leaves.py)                  | O(n) | O(h)       | Easy       |      |
+| 0501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Find%20Mode%20in%20Binary%20Search%20Tree.py) | O(n) | O(h)       | Easy       |      |
 
 
 
@@ -143,6 +145,7 @@
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Arranging%20Coins.py)                               | O(nlogn)	)    | O(1)  | Easy       | Binary Search |
 | 0453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Minimum%20Moves%20to%20Equal%20Array%20Elements.py) | O(n)	)        | O(1)  | Easy       |               |
 | 0492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/Construct%20the%20Rectangle.py)                     | O(n)	)        | O(1)  | Easy       |               |
+| 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number/)                                               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Perfect%20Number.py)                                | O(sqrt(n))	)  | O(1)  | Easy       |               |
 
 
 ## Sort
@@ -199,6 +202,7 @@
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Climbing%20Stairs.py)                   | O(n)                     | O(1)  | Easy       |      |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/)                             | [python](https://github.com/orifake/leetcode-python/blob/master/src/House%20Robber.py)                      | O(n)                     | O(1)  | Easy       |      |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Range%20Sum%20Query%20-%20Immutable.py) | ctor: O(n), lookup: O(1) | O(n)  | Easy       |      |
+| 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Fibonacci%20Number.py)                  | O(n)                     | O(n)  | Easy       |      |
 
 
 ## Greedy
@@ -231,3 +235,8 @@
 ## Concurrency
 | #   | Title | Solution | Time | Space | Difficulty | Note |
 | --- | ----- | -------- | ---- | ----- | ---------- | ---- |
+
+## Other
+| #    | Title                                                           | Solution                                                                                 | Time     | Space | Difficulty | Note |
+| ---- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------- | ----- | ---------- | ---- |
+| 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Relative%20Ranks.py) | O(nlogn) | O(n)  | Easy       |      |
