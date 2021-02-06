@@ -6,19 +6,12 @@
 #         self.right = right
 class Solution:
     def getMinimumDifference(self, root: TreeNode) -> int:
-        if root is None:
-            return
+        def inorderTraversal(root, prev, result):
+            if not root:
+                return (result, prev)
 
-        temp = []
-        node = self.inorder(root, temp)
-        minimum = min(
-            [abs(node[i + 1] - node[i]) for i in range(len(node) - 1)])
-        return minimum
+            result, prev = inorderTraversal(root.left, prev, result)
+            if prev: result = min(result, root.val - prev.val)
+            return inorderTraversal(root.right, root, result)
 
-    def inorder(self, root, temp):
-        if root == None:
-            return
-        self.inorder(root.left, temp)
-        temp.append(root.val)
-        self.inorder(root.right, temp)
-        return temp
+        return inorderTraversal(root, None, float("inf"))[0]
