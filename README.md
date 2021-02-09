@@ -72,6 +72,12 @@
 |      |
 | 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Longest%20Uncommon%20Subsequence%20I.py)        | O(min(a, b)) | O(1)   | Easy       |               |
 |      |
+| 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)                           | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20String%20II.py)                       | O(n）        | O(1)   | Easy       |               |
+|      |
+| 0551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Student%20Attendance%20Record%20I.py)           | O(n）        | O(1)   | Easy       |               |
+|      |
+| 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)   | [python](https://github.com/orifake/leetcode-python/blob/master/src/Reverse%20Words%20in%20a%20String%20III.py)     | O(n）        | O(1)   | Easy       |               |
+|      |
 
 ## Linked List
 | #    | Title                                                                                                   | Solution                                                                                                         | Time   | Space | Difficulty | Note |
@@ -109,6 +115,7 @@
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                 | [python](https://github.com/orifake/leetcode-python/blob/master/src/Sum%20of%20Left%20Leaves.py)                   | O(n) | O(h)       | Easy       |      |
 | 0501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Find%20Mode%20in%20Binary%20Search%20Tree.py)  | O(n) | O(h)       | Easy       |      |
 | 0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [python](https://github.com/orifake/leetcode-python/blob/master/src/Minimum%20Absolute%20Difference%20in%20BST.py) | O(n) | O(h)       | Easy       |      |
+| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Diameter%20of%20Binary%20Tree.py)              | O(n) | O(h)       | Easy       |      |
 
 
 
