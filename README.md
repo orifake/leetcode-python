@@ -122,6 +122,8 @@
 | 0559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)               | [python](https://github.com/orifake/leetcode-python/blob/master/src/Maximum%20Depth%20of%20N-ary%20Tree.py)        | O(n)    | O(h)       | Easy       |      |
 | 0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)                                     | [python](https://github.com/orifake/leetcode-python/blob/master/src/Binary%20Tree%20Tilt.py)                       | O(n)    | O(n)       | Easy       |      |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                       | [python](https://github.com/orifake/leetcode-python/blob/master/src/Subtree%20of%20Another%20Tree.py)              | O(m\*n) | O(h)       | Easy       |      |
+| 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)           | [python](https://github.com/orifake/leetcode-python/blob/master/src/N-ary%20Tree%20Preorder%20Traversal.py)        | O(n)    | O(n)       | Easy       |      |
+| 0590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)         | [python](https://github.com/orifake/leetcode-python/blob/master/src/N-ary%20Tree%20Postorder%20Traversal.py)       | O(n)    | O(n)       | Easy       |      |
 
 
 
